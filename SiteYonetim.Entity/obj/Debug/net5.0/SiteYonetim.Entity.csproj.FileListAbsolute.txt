@@ -1,0 +1,15 @@
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\SiteYonetim.Entity.deps.json
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\SiteYonetim.Entity.runtimeconfig.json
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\SiteYonetim.Entity.runtimeconfig.dev.json
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\SiteYonetim.Entity.dll
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\ref\SiteYonetim.Entity.dll
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\bin\Debug\net5.0\SiteYonetim.Entity.pdb
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.csproj.AssemblyReference.cache
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.AssemblyInfoInputs.cache
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.AssemblyInfo.cs
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.csproj.CoreCompileInputs.cache
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.dll
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\ref\SiteYonetim.Entity.dll
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.pdb
+D:\ASP.NET\SiteYonetim\SiteYonetim\SiteYonetim.Entity\obj\Debug\net5.0\SiteYonetim.Entity.genruntimeconfig.cache
